@@ -17,8 +17,8 @@ Notes on Running:
 
         mex whistc.c
 
-2)  The script main.m in the base directory will run the experiments as 
-    requested for the assignment.  There are configuration paramters that
+2)  The script main.m in the base directory will run experiments.
+    There are configuration paramters that
     can be set at the top of the file including things such as the size of
     the histogram bins, the number of iterations to train for and the 
     minimum size of the filters.  They are described in main.m.
