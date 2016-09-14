@@ -30,7 +30,6 @@ Notes on Running:
                         images or plotting tools
         - writeup   : Functions specifically used to create the graphs
                         for the writeup.
-
     These subdirectories need to be included in the source path.  This is done inside of
     main.m.  You can look there for how to do it if you would like to run your own script
     to run the adaboost code.
