@@ -1,7 +1,8 @@
-    This distribution contains code for running the adaboost algorithm as 
+This distribution contains code for running the adaboost algorithm as 
 described in the Viola and Jones adaboost paper.  Everything is implemented
 except for the cascade of classifiers.  
-    Thresholds for the classifiers are found using a weighted histogram
+
+Thresholds for the classifiers are found using a weighted histogram
 as opposed to fitting a Gaussian distribution.  There are two separate modes
 for boosting the classifier.  
 
